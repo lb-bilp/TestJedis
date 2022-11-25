@@ -17,6 +17,6 @@ public class TestJedis {
         System.out.println(replication);
         System.out.println("11111112221sss");
         System.out.println("aaaaabbb");
-        System.out.println("xxxxxx");
+        System.out.println("x");
     }
 }
