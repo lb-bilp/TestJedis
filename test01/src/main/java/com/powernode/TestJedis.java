@@ -19,5 +19,6 @@ public class TestJedis {
         System.out.println("aaaaabbb");
         System.out.println("xxxx55ss5xx");
         System.out.println(".................");
+        System.out.println("xxxxx");
     }
 }
